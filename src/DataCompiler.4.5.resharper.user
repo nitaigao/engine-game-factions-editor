@@ -1,0 +1,619 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:EntityAttribute.cs" caret="0" fromTop="0" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Environment/f:EnvironmentColor.cs" caret="665" fromTop="23" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Environment/f:Environment.cs" caret="229" fromTop="8" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:Systems.cs" caret="31" fromTop="1" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:EntityComponent.cs" caret="0" fromTop="0" />
+      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/d:Environment/f:EnvironmentParserSpecs.cs" caret="0" fromTop="0" />
+      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:LevelCompilerSpecs.cs" caret="0" fromTop="0" />
+      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/d:Entities/f:EntityParserSpecs.cs" caret="352" fromTop="13" />
+      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/d:Environment/f:EnvironmentColorSpecs.cs" caret="0" fromTop="0" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:Serializable.cs" caret="241" fromTop="10" />
+      <File id="38BE34CD-E147-4CF7-A7A8-EB860C9797AD/f:Specification.cs" caret="186" fromTop="8" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:Paths.cs" caret="1351" fromTop="52" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Environment/f:EnvironmentParser.cs" caret="0" fromTop="0" />
+      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="497" fromTop="16" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:ModelCompiler.cs" caret="267" fromTop="10" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="756" fromTop="26" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:Entity.cs" caret="104" fromTop="4" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:ComponentFactory.cs" caret="5944" fromTop="46" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:LevelCompiler.cs" caret="1458" fromTop="41" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:EntityParser.cs" caret="696" fromTop="26" />
+      <File id="E075215D-214B-43A8-A9D2-23C5D156A8B5/f:Program.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="1234" fromTop="37" />
+      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="2099" fromTop="62" />
+      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="521" fromTop="10" />
+      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="1602" fromTop="56" />
+      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="858" fromTop="25" />
+      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="1512" fromTop="39" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:ModelCompiler.cs" caret="113" fromTop="5" />
+      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="724" fromTop="25" />
+      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="1343" fromTop="49" />
+      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="209" fromTop="8" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="2631" fromTop="38" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="3103" fromTop="48" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="2516" fromTop="35" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="3379" fromTop="54" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="4006" fromTop="67" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="2963" fromTop="49" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:ModelCompiler.cs" caret="725" fromTop="21" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:ModelCompiler.cs" caret="1072" fromTop="35" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="405" fromTop="14" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="137" fromTop="5" />
+      <File id="E075215D-214B-43A8-A9D2-23C5D156A8B5/f:Program.cs" caret="441" fromTop="11" />
+      <File id="E075215D-214B-43A8-A9D2-23C5D156A8B5/f:Program.cs" caret="127" fromTop="7" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="1949" fromTop="32" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="2203" fromTop="49" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="1456" fromTop="38" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:ComponentFactory.cs" caret="8214" fromTop="41" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:EntityParser.cs" caret="1267" fromTop="35" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:EntityParser.cs" caret="1095" fromTop="35" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:Entity.cs" caret="590" fromTop="17" />
+      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:EntityParser.cs" caret="959" fromTop="31" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="60" />
+      <Item value="float" priority="4" />
+      <Item value="Vector" priority="2" />
+      <Item value="this" priority="44" />
+      <Item value="x" priority="0" />
+      <Item value="new" priority="113" />
+      <Item value="v" priority="3" />
+      <Item value="Xml" priority="1" />
+      <Item value="Serialization" priority="1" />
+      <Item value="XmlSerializer" priority="3" />
+      <Item value="serializer" priority="4" />
+      <Item value="void" priority="23" />
+      <Item value="virtual" priority="1" />
+      <Item value="protected" priority="10" />
+      <Item value="SpecialValue" priority="0" />
+      <Item value="EnvironmentParserSpecs" priority="0" />
+      <Item value="override" priority="22" />
+      <Item value="_inputXml" priority="9" />
+      <Item value="Assert" priority="7" />
+      <Item value="XmlElement" priority="12" />
+      <Item value="return" priority="26" />
+      <Item value="XmlDocument" priority="35" />
+      <Item value="EnvironmentColor" priority="10" />
+      <Item value="ambientElement" priority="1" />
+      <Item value="static" priority="13" />
+      <Item value="XmlNode" priority="26" />
+      <Item value="xmlNode" priority="11" />
+      <Item value="string" priority="79" />
+      <Item value="var" priority="26" />
+      <Item value="color" priority="4" />
+      <Item value="class" priority="13" />
+      <Item value="Specification" priority="0" />
+      <Item value="EnvironmentolorBaseContext" priority="1" />
+      <Item value="elementXml" priority="2" />
+      <Item value="XmlTextReader" priority="4" />
+      <Item value="reader" priority="1" />
+      <Item value="stringReader" priority="0" />
+      <Item value="_outputColor" priority="0" />
+      <Item value="Serializable" priority="4" />
+      <Item value="outputXml" priority="11" />
+      <Item value="out" priority="3" />
+      <Item value="XmlNodeType" priority="2" />
+      <Item value="rootNode" priority="1" />
+      <Item value="environmentNode" priority="10" />
+      <Item value="Console" priority="1" />
+      <Item value="_outputXml" priority="7" />
+      <Item value="XmlWriter" priority="2" />
+      <Item value="outputWriter" priority="0" />
+      <Item value="System" priority="5" />
+      <Item value="Type" priority="1" />
+      <Item value="ambientColor" priority="2" />
+      <Item value="XmlTextWriter" priority="9" />
+      <Item value="StringWriter" priority="3" />
+      <Item value="serializerWriter" priority="0" />
+      <Item value="stringWriter" priority="1" />
+      <Item value="stringBuilder" priority="0" />
+      <Item value="ambientColorNode" priority="2" />
+      <Item value="Stream" priority="0" />
+      <Item value="MemoryStream" priority="1" />
+      <Item value="memoryStream" priority="5" />
+      <Item value="UTF8Encoding" priority="1" />
+      <Item value="encoding" priority="0" />
+      <Item value="Encoding" priority="1" />
+      <Item value="XmlText" priority="2" />
+      <Item value="xmlDocument" priority="7" />
+      <Item value="name" priority="3" />
+      <Item value="switch" priority="1" />
+      <Item value="case" priority="6" />
+      <Item value="break" priority="4" />
+      <Item value="XmlAttribute" priority="8" />
+      <Item value="LevelCompilerBaseContext" priority="0" />
+      <Item value="Is" priority="6" />
+      <Item value="Has" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="using" priority="2" />
+      <Item value="Linq" priority="0" />
+      <Item value="Data" priority="0" />
+      <Item value="if" priority="16" />
+      <Item value="result" priority="4" />
+      <Item value="null" priority="10" />
+      <Item value="EnvironmentParser" priority="2" />
+      <Item value="parser" priority="0" />
+      <Item value="environmentResult" priority="0" />
+      <Item value="MockRepository" priority="1" />
+      <Item value="_environmentParser" priority="3" />
+      <Item value="o" priority="2" />
+      <Item value="rootElement" priority="1" />
+      <Item value="entityData" priority="0" />
+      <Item value="LevelCompiler" priority="6" />
+      <Item value="IEnvironmentParser" priority="0" />
+      <Item value="environmentParser" priority="1" />
+      <Item value="entityParser" priority="2" />
+      <Item value="base" priority="0" />
+      <Item value="IEntityParser" priority="0" />
+      <Item value="_entityParser" priority="2" />
+      <Item value="entitiesResult" priority="0" />
+      <Item value="entitiesNode" priority="2" />
+      <Item value="_entitiesOutputXml" priority="0" />
+      <Item value="EntityParserBaseContext" priority="0" />
+      <Item value="EntityParser" priority="3" />
+      <Item value="_levelXml" priority="0" />
+      <Item value="xmlRoot" priority="0" />
+      <Item value="nodesNode" priority="2" />
+      <Item value="foreach" priority="6" />
+      <Item value="childNode" priority="4" />
+      <Item value="entity" priority="7" />
+      <Item value="entityNode" priority="1" />
+      <Item value="Entity" priority="0" />
+      <Item value="graphicsNode" priority="2" />
+      <Item value="List" priority="3" />
+      <Item value="IEnityComponent" priority="2" />
+      <Item value="abstract" priority="1" />
+      <Item value="EntityComponent" priority="16" />
+      <Item value="GraphicsComponent" priority="3" />
+      <Item value="bool" priority="1" />
+      <Item value="XmlIncludeAttribute" priority="0" />
+      <Item value="XmlInclude" priority="1" />
+      <Item value="type" priority="1" />
+      <Item value="XmlRoot" priority="1" />
+      <Item value="XmlType" priority="1" />
+      <Item value="AnonymousType" priority="0" />
+      <Item value="Namespace" priority="0" />
+      <Item value="File" priority="9" />
+      <Item value="Path" priority="0" />
+      <Item value="overrideModelNode" priority="1" />
+      <Item value="IgnoreException" priority="0" />
+      <Item value="Paths" priority="7" />
+      <Item value="else" priority="1" />
+      <Item value="graphicsTypeNode" priority="0" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="SetUpAttribute" priority="0" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="0" />
+      <Item value="component" priority="12" />
+      <Item value="IList" priority="1" />
+      <Item value="KeyValuePair" priority="1" />
+      <Item value="T" priority="0" />
+      <Item value="U" priority="0" />
+      <Item value="List&lt;KeyValuePair&lt;string,string&gt;&gt;" priority="0" />
+      <Item value="KeyValuePair&lt;string,string&gt;" priority="1" />
+      <Item value="TKey" priority="0" />
+      <Item value="TVal" priority="0" />
+      <Item value="PhysicsComponent" priority="3" />
+      <Item value="KeyValuePairForXml&lt;string,string&gt;" priority="2" />
+      <Item value="node" priority="0" />
+      <Item value="List&lt;KeyValuePairForXml&lt;string,string&gt;&gt;" priority="1" />
+      <Item value="compiler" priority="2" />
+      <Item value="sceneFile" priority="3" />
+      <Item value="levelFile" priority="1" />
+      <Item value="Environment" priority="4" />
+      <Item value="writer" priority="0" />
+      <Item value="AnimationComponent" priority="2" />
+      <Item value="animationsPathNode" priority="3" />
+      <Item value="fullPath" priority="0" />
+      <Item value="FileStyleUriParser" priority="0" />
+      <Item value="DirectoryInfo" priority="5" />
+      <Item value="searchPath" priority="0" />
+      <Item value="searchPathInfo" priority="0" />
+      <Item value="file" priority="10" />
+      <Item value="int" priority="4" />
+      <Item value="FileInfo" priority="3" />
+      <Item value="inputFileInfo" priority="3" />
+      <Item value="system" priority="1" />
+      <Item value="animationName" priority="4" />
+      <Item value="seperatorIndex" priority="1" />
+      <Item value="extensionIndex" priority="0" />
+      <Item value="bindPosePathNode" priority="1" />
+      <Item value="ArrayList" priority="1" />
+      <Item value="NewLineHandling" priority="1" />
+      <Item value="KeyValuePairForXml" priority="3" />
+      <Item value="animationPath" priority="1" />
+      <Item value="animations" priority="1" />
+      <Item value="animationsAttribute" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="List&lt;EntityAttribute&gt;" priority="0" />
+      <Item value="EntityAttribute" priority="7" />
+      <Item value="key" priority="3" />
+      <Item value="v1" priority="3" />
+      <Item value="v2" priority="2" />
+      <Item value="v3" priority="1" />
+      <Item value="v4" priority="1" />
+      <Item value="StringSplitOptions" priority="1" />
+      <Item value="V1" priority="5" />
+      <Item value="ElementName" priority="6" />
+      <Item value="bindPosePath" priority="0" />
+      <Item value="XmlArray" priority="1" />
+      <Item value="IsNullable" priority="0" />
+      <Item value="XmlArrayItem" priority="1" />
+      <Item value="V2" priority="0" />
+      <Item value="AttributeName" priority="3" />
+      <Item value="systemType" priority="1" />
+      <Item value="default" priority="0" />
+      <Item value="throw" priority="0" />
+      <Item value="Exception" priority="0" />
+      <Item value="ComponentFactory" priority="5" />
+      <Item value="Systems" priority="8" />
+      <Item value="scriptNameNode" priority="0" />
+      <Item value="List&lt;EnvironmentColor&gt;" priority="0" />
+      <Item value="environment" priority="1" />
+      <Item value="base_context" priority="5" />
+      <Item value="TestFixture" priority="3" />
+      <Item value="levelCompiler" priority="1" />
+      <Item value="MaxInterface" priority="2" />
+      <Item value="MaxParameters" priority="8" />
+      <Item value="parameters" priority="10" />
+      <Item value="args" priority="3" />
+      <Item value="outputFilePath" priority="1" />
+      <Item value="sceneFilePath" priority="1" />
+      <Item value="inputXml" priority="0" />
+      <Item value="inputReader" priority="0" />
+      <Item value="Directory" priority="1" />
+      <Item value="directoryInfo" priority="3" />
+      <Item value="in" priority="0" />
+      <Item value="directory" priority="0" />
+      <Item value="ModelCompiler" priority="2" />
+      <Item value="modelFile" priority="2" />
+      <Item value="modelNode" priority="1" />
+      <Item value="xmlTextWriter" priority="3" />
+      <Item value="List&lt;XmlDocument&gt;" priority="0" />
+      <Item value="models" priority="2" />
+      <Item value="modelCompiler" priority="1" />
+      <Item value="model" priority="1" />
+      <Item value="sceneFileInfo" priority="0" />
+      <Item value="userDataNode" priority="3" />
+      <Item value="entitiesDirInfo" priority="0" />
+      <Item value="subDirectory" priority="0" />
+      <Item value="TextReader" priority="0" />
+      <Item value="textReader" priority="2" />
+      <Item value="fileData" priority="2" />
+      <Item value="Text.RegularExpressions" priority="0" />
+      <Item value="Regex" priority="3" />
+      <Item value="entitiesPath" priority="0" />
+      <Item value="TextWriter" priority="2" />
+      <Item value="textWriter" priority="0" />
+      <Item value="FileStream" priority="0" />
+      <Item value="outputStream" priority="2" />
+      <Item value="StreamWriter" priority="1" />
+      <Item value="externalNode" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Vector">
+      <Item value="x" priority="0" />
+      <Item value="y" priority="1" />
+      <Item value="z" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Serialization.XmlSerializer">
+      <Item value="Serialize" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlackBox.Testing.Specification`1">
+      <Item value="Equals" priority="0" />
+      <Item value="EstablishBaseContext" priority="0" />
+      <Item value="SetupTest" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Tests.EnvironmentParserBaseContext+when_given_some_xml">
+      <Item value="Subject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Tests.EnvironmentParser">
+      <Item value="Serialize" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="HasChildNodes" priority="4" />
+      <Item value="LoadXml" priority="11" />
+      <Item value="SelectSingleNode" priority="3" />
+      <Item value="ReadNode" priority="0" />
+      <Item value="CreateNode" priority="5" />
+      <Item value="AppendChild" priority="4" />
+      <Item value="ToString" priority="0" />
+      <Item value="WriteTo" priority="2" />
+      <Item value="ChildNodes" priority="6" />
+      <Item value="DocumentElement" priority="1" />
+      <Item value="LastChild" priority="1" />
+      <Item value="CreateTextNode" priority="0" />
+      <Item value="ImportNode" priority="3" />
+      <Item value="GetElementsByTagName" priority="0" />
+      <Item value="Load" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlElement">
+      <Item value="ToString" priority="1" />
+      <Item value="Value" priority="0" />
+      <Item value="RemoveAllAttributes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Single">
+      <Item value="Parse" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Tests.EnvironmentolorBaseContext+when_given_xml">
+      <Item value="Subject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DataCompiler.Tests.EnvironmentColor">
+      <Item value="FromXML" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNode">
+      <Item value="Attributes" priority="7" />
+      <Item value="AppendChild" priority="5" />
+      <Item value="Name" priority="1" />
+      <Item value="LastChild" priority="1" />
+      <Item value="HasChildNodes" priority="0" />
+      <Item value="SelectSingleNode" priority="9" />
+      <Item value="ChildNodes" priority="2" />
+      <Item value="Value" priority="3" />
+      <Item value="InnerXml" priority="0" />
+      <Item value="InnerText" priority="8" />
+      <Item value="WriteTo" priority="0" />
+      <Item value="RemoveChild" priority="1" />
+      <Item value="ParentNode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttribute">
+      <Item value="ToString" priority="0" />
+      <Item value="Value" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XmlNodeType">
+      <Item value="Document" priority="0" />
+      <Item value="Element" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="14" />
+      <Item value="Format" priority="11" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Out" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextWriter">
+      <Item value="Write" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Tests.EnvironmentColor">
+      <Item value="GetType" priority="0" />
+      <Item value="Serialize" priority="0" />
+      <Item value="name" priority="0" />
+      <Item value="type" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Tests.EnvironmentolorBaseContext+when_asked_to_serialize">
+      <Item value="Subject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StringWriter">
+      <Item value="Write" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.UTF8Encoding">
+      <Item value="GetString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.MemoryStream">
+      <Item value="ToArray" priority="0" />
+      <Item value="Position" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="UTF8" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Has">
+      <Item value="Some" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Is">
+      <Item value="GreaterThan" priority="1" />
+      <Item value="Not" priority="1" />
+      <Item value="True" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNodeList">
+      <Item value="AsQueryable" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Tests.LevelCompilerBaseContext+when_the_compiler_is_supplied_xml">
+      <Item value="Subject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NUnit.Framework.Constraints.ConstraintExpression">
+      <Item value="Null" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Environment.EnvironmentParser">
+      <Item value="Serialize" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.MockRepository">
+      <Item value="GenerateMock" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Tests.IEnvironmentParser">
+      <Item value="Equals" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IMethodOptions`1">
+      <Item value="Return" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Tests.Environment.EnvironmentolorBaseContext">
+      <Item value="Subject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Tests.Environment.EnvironmentParserBaseContext">
+      <Item value="Subject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Tests.LevelCompilerBaseContext">
+      <Item value="Subject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Tests.IEntityParser">
+      <Item value="Serialize" priority="1" />
+      <Item value="Equals" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Tests.Entities.EntityParserBaseContext">
+      <Item value="Subject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Tests.Entities.EntityParserBaseContext+when_given_xml">
+      <Item value="Subject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Tests.Entities.EntityParser">
+      <Item value="Serialize" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Tests.Entities.Entity">
+      <Item value="components" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Tests.Entities.GraphicsComponent">
+      <Item value="type" priority="2" />
+      <Item value="attributes" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Boolean">
+      <Item value="Parse" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DataCompiler.Tests.Entities.Paths">
+      <Item value="ModelsGamePath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="0" />
+      <Item value="Substring" priority="2" />
+      <Item value="IndexOf" priority="2" />
+      <Item value="Remove" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttributeCollection">
+      <Item value="RemoveNamedItem" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Entities.PhysicsComponent">
+      <Item value="attributes" priority="2" />
+      <Item value="system" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.LevelCompiler">
+      <Item value="CompileLevel" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="GetFolderPath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment+SpecialFolder">
+      <Item value="Desktop" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Entities.AnimationComponent">
+      <Item value="system" priority="0" />
+      <Item value="attributes" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Entities.EntityComponent">
+      <Item value="system" priority="1" />
+      <Item value="attributes" priority="1" />
+      <Item value="Attributes" priority="1" />
+      <Item value="Type" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.DirectoryInfo">
+      <Item value="GetFiles" priority="2" />
+      <Item value="FullName" priority="2" />
+      <Item value="GetDirectories" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="Directory" priority="1" />
+      <Item value="FullName" priority="5" />
+      <Item value="Name" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DataCompiler.Paths">
+      <Item value="WorkingDirectory" priority="0" />
+      <Item value="AnimationsGamePath" priority="0" />
+      <Item value="ScriptsGamePath" priority="0" />
+      <Item value="BaseGamePath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ArrayList">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Entities.EntityAttribute">
+      <Item value="V1" priority="0" />
+      <Item value="V2" priority="0" />
+      <Item value="V3" priority="0" />
+      <Item value="V4" priority="0" />
+      <Item value="Key" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DataCompiler.Entities.ComponentFactory">
+      <Item value="CreateComponent" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DataCompiler.Entities.Systems">
+      <Item value="Graphics" priority="0" />
+      <Item value="Physics" priority="0" />
+      <Item value="Animation" priority="1" />
+      <Item value="Input" priority="1" />
+      <Item value="Sound" priority="0" />
+      <Item value="Script" priority="1" />
+      <Item value="AI" priority="0" />
+      <Item value="Geometry" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.Environment.Environment">
+      <Item value="Colors" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.MaxParameters">
+      <Item value="sceneFilePath" priority="3" />
+      <Item value="outputFilePath" priority="0" />
+      <Item value="entitiesPath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DataCompiler.MaxInterface">
+      <Item value="CompileLevel" priority="0" />
+      <Item value="CopyModelsFromScene" priority="0" />
+      <Item value="SetGamePaths" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Delete" priority="1" />
+      <Item value="OpenWrite" priority="1" />
+      <Item value="OpenText" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextReader">
+      <Item value="Close" priority="1" />
+      <Item value="ReadToEnd" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="Delete" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:specs_for_ModelCompiler.ModelCompiler">
+      <Item value="SetUp" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DataCompiler.System.Paths">
+      <Item value="WorkingDirectory" priority="1" />
+      <Item value="ModelsFullPath" priority="1" />
+      <Item value="MeshesGamePath" priority="1" />
+      <Item value="TexturesGamePath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Count" priority="0" />
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DataCompiler.ModelCompiler">
+      <Item value="CompileModelsFromScene" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlTextWriter">
+      <Item value="Close" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.RegularExpressions.Regex">
+      <Item value="Replace" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Write" priority="0" />
+      <Item value="Close" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

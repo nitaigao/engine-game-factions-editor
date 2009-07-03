@@ -1,0 +1,10 @@
+C:\Users\NK\Development\DataCompiler\DataCompiler\bin\Debug\DataCompiler.exe
+C:\Users\NK\Development\DataCompiler\DataCompiler\bin\Debug\DataCompiler.pdb
+C:\Users\NK\Development\DataCompiler\DataCompiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NK\Development\DataCompiler\DataCompiler\obj\Debug\DataCompiler.exe
+C:\Users\NK\Development\DataCompiler\DataCompiler\obj\Debug\DataCompiler.pdb
+C:\Users\NK\Development\DataCompiler\src\DataCompiler\bin\Debug\DataCompiler.dll
+C:\Users\NK\Development\DataCompiler\src\DataCompiler\bin\Debug\DataCompiler.pdb
+C:\Users\NK\Development\DataCompiler\src\DataCompiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NK\Development\DataCompiler\src\DataCompiler\obj\Debug\DataCompiler.dll
+C:\Users\NK\Development\DataCompiler\src\DataCompiler\obj\Debug\DataCompiler.pdb

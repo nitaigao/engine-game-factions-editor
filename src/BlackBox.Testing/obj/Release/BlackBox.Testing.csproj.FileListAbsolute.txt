@@ -1,0 +1,7 @@
+C:\Users\NK\Development\DataCompiler\src\BlackBox.Testing\bin\Release\BlackBox.Testing.dll
+C:\Users\NK\Development\DataCompiler\src\BlackBox.Testing\bin\Release\BlackBox.Testing.pdb
+C:\Users\NK\Development\DataCompiler\src\BlackBox.Testing\bin\Release\nunit.framework.dll
+C:\Users\NK\Development\DataCompiler\src\BlackBox.Testing\bin\Release\nunit.framework.xml
+C:\Users\NK\Development\DataCompiler\src\BlackBox.Testing\obj\Release\ResolveAssemblyReference.cache
+C:\Users\NK\Development\DataCompiler\src\BlackBox.Testing\obj\Release\BlackBox.Testing.dll
+C:\Users\NK\Development\DataCompiler\src\BlackBox.Testing\obj\Release\BlackBox.Testing.pdb
