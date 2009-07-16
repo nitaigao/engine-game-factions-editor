@@ -1,0 +1,12 @@
+*.ncb
+*.user
+*.cache
+*.dat
+*.exe
+*.log
+*.exp
+*.idb
+*resharper*
+_Resharper*
+build/*
+*obj*
