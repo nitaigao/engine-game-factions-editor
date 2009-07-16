@@ -62,7 +62,7 @@ namespace :build do
 			
 			test_files_list = FileList.new( File.join( $outputdir, '**/*Tests.dll' ) )
 			
-			test_files_list.each { | testfile | sh "nunit-console #{testfile}" }
+			test_files_list.each { | testfile | sh "../etc/vendor/nunit/nunit-console.exe #{testfile}" }
 		    
 		rescue Exception => e
 			raise "\n\nFailed: There was an error while running tests\n#{e}"
