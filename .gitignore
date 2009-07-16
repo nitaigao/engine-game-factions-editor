@@ -8,4 +8,6 @@
 *resharper*
 _Resharper*
 build/*
+profile/*
+packages/*
 *obj*
