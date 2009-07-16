@@ -2,7 +2,6 @@
 *.user
 *.cache
 *.dat
-*.exe
 *.log
 *.exp
 *.idb
