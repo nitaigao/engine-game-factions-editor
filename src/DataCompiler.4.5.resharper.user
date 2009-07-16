@@ -17,7 +17,6 @@
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:EntityAttribute.cs" caret="0" fromTop="0" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Environment/f:EnvironmentColor.cs" caret="665" fromTop="23" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Environment/f:Environment.cs" caret="229" fromTop="8" />
-      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:Systems.cs" caret="31" fromTop="1" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:EntityComponent.cs" caret="0" fromTop="0" />
       <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/d:Environment/f:EnvironmentParserSpecs.cs" caret="0" fromTop="0" />
       <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:LevelCompilerSpecs.cs" caret="0" fromTop="0" />
@@ -25,28 +24,16 @@
       <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/d:Environment/f:EnvironmentColorSpecs.cs" caret="0" fromTop="0" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:Serializable.cs" caret="241" fromTop="10" />
       <File id="38BE34CD-E147-4CF7-A7A8-EB860C9797AD/f:Specification.cs" caret="186" fromTop="8" />
-      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:Paths.cs" caret="1351" fromTop="52" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Environment/f:EnvironmentParser.cs" caret="0" fromTop="0" />
-      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="497" fromTop="16" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:ModelCompiler.cs" caret="267" fromTop="10" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="756" fromTop="26" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:Entity.cs" caret="104" fromTop="4" />
-      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:ComponentFactory.cs" caret="5944" fromTop="46" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:LevelCompiler.cs" caret="1458" fromTop="41" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:EntityParser.cs" caret="696" fromTop="26" />
       <File id="E075215D-214B-43A8-A9D2-23C5D156A8B5/f:Program.cs" caret="0" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
-      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="1234" fromTop="37" />
-      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="2099" fromTop="62" />
-      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="521" fromTop="10" />
-      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="1602" fromTop="56" />
-      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="858" fromTop="25" />
-      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="1512" fromTop="39" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:ModelCompiler.cs" caret="113" fromTop="5" />
-      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="724" fromTop="25" />
-      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="1343" fromTop="49" />
-      <File id="1A235DCA-9DA2-427E-9CDE-BBD029C1A996/f:ModelCompiler.cs" caret="209" fromTop="8" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="2631" fromTop="38" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="3103" fromTop="48" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="2516" fromTop="35" />
@@ -62,7 +49,6 @@
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="1949" fromTop="32" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="2203" fromTop="49" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/f:MaxInterface.cs" caret="1456" fromTop="38" />
-      <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:ComponentFactory.cs" caret="8214" fromTop="41" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:EntityParser.cs" caret="1267" fromTop="35" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:EntityParser.cs" caret="1095" fromTop="35" />
       <File id="3292F0F1-4232-49E3-8C2E-EA403F3176E4/d:Entities/f:Entity.cs" caret="590" fromTop="17" />

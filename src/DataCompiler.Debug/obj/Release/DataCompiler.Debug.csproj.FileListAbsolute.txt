@@ -1,7 +1,0 @@
-C:\Users\NK\Development\DataCompiler\src\DataCompiler.Debug\bin\Release\DataCompiler.Debug.exe
-C:\Users\NK\Development\DataCompiler\src\DataCompiler.Debug\bin\Release\DataCompiler.Debug.pdb
-C:\Users\NK\Development\DataCompiler\src\DataCompiler.Debug\bin\Release\DataCompiler.dll
-C:\Users\NK\Development\DataCompiler\src\DataCompiler.Debug\obj\Release\ResolveAssemblyReference.cache
-C:\Users\NK\Development\DataCompiler\src\DataCompiler.Debug\obj\Release\DataCompiler.Debug.exe
-C:\Users\NK\Development\DataCompiler\src\DataCompiler.Debug\obj\Release\DataCompiler.Debug.pdb
-C:\Users\NK\Development\DataCompiler\src\DataCompiler.Debug\bin\Release\DataCompiler.pdb

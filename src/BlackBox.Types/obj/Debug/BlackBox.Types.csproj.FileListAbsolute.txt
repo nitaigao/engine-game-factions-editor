@@ -1,5 +1,0 @@
-C:\Users\NK\Development\DataCompiler\src\BlackBox.Types\bin\Debug\BlackBox.Types.dll
-C:\Users\NK\Development\DataCompiler\src\BlackBox.Types\bin\Debug\BlackBox.Types.pdb
-C:\Users\NK\Development\DataCompiler\src\BlackBox.Types\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\NK\Development\DataCompiler\src\BlackBox.Types\obj\Debug\BlackBox.Types.dll
-C:\Users\NK\Development\DataCompiler\src\BlackBox.Types\obj\Debug\BlackBox.Types.pdb

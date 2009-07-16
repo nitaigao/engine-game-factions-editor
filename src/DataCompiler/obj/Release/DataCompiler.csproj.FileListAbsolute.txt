@@ -1,5 +1,0 @@
-C:\Users\NK\Development\DataCompiler\src\DataCompiler\bin\Release\DataCompiler.dll
-C:\Users\NK\Development\DataCompiler\src\DataCompiler\bin\Release\DataCompiler.pdb
-C:\Users\NK\Development\DataCompiler\src\DataCompiler\obj\Release\ResolveAssemblyReference.cache
-C:\Users\NK\Development\DataCompiler\src\DataCompiler\obj\Release\DataCompiler.dll
-C:\Users\NK\Development\DataCompiler\src\DataCompiler\obj\Release\DataCompiler.pdb

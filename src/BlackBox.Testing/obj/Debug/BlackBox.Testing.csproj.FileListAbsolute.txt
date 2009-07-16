@@ -1,7 +1,0 @@
-C:\Users\NK\Development\DataCompiler\src\BlackBox.Testing\bin\Debug\BlackBox.Testing.dll
-C:\Users\NK\Development\DataCompiler\src\BlackBox.Testing\bin\Debug\BlackBox.Testing.pdb
-C:\Users\NK\Development\DataCompiler\src\BlackBox.Testing\bin\Debug\nunit.framework.dll
-C:\Users\NK\Development\DataCompiler\src\BlackBox.Testing\bin\Debug\nunit.framework.xml
-C:\Users\NK\Development\DataCompiler\src\BlackBox.Testing\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\NK\Development\DataCompiler\src\BlackBox.Testing\obj\Debug\BlackBox.Testing.dll
-C:\Users\NK\Development\DataCompiler\src\BlackBox.Testing\obj\Debug\BlackBox.Testing.pdb
